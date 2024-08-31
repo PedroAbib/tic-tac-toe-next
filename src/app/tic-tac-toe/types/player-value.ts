@@ -1,0 +1,1 @@
+export type IPlayerValue = "X" | "O";
